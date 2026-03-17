@@ -7,7 +7,7 @@
 <br><br>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI2dDMyZHA1dXZrZXpkeTdmMW0zd2VzZGE5cDV0b2txYm5lYzd4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igyfXHSWGHZME0PLvr/giphy.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="https://i.pinimg.com/originals/90/61/81/906181e6663a0e5f60b43e6cf8719b70.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 <br>

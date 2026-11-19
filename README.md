@@ -48,8 +48,4 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sfernandezrodriguez-eng&theme=radical" width="50%">
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sfernandezrodriguez-eng&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
